@@ -1,0 +1,296 @@
+[
+  {
+    "student": {
+      "name_student": "Константин",
+      "group": "20м"
+    },
+    "grades": [
+      {
+        "task": {
+          "subject": "Математика",
+          "type_of_work": "Типовик"
+        },
+        "grades": [ 5,4,3,2,5 ]
+      },
+      {
+        "task": {
+          "subject": "Схемотехника",
+          "type_of_work": "Лабораторная"
+        },
+        "grades": [ 2,3,1,5,5,5 ]
+      },
+      {
+        "task": {
+          "subject": "История",
+          "type_of_work": "Тест"
+        },
+        "grades":[ 5,4,4,4 ]
+      },
+      {
+        "task": {
+          "subject": "Русский",
+          "type_of_work": "Диктант"
+        },
+        "grades":[ 1,2,3 ]
+      },
+      {
+        "task": {
+          "subject": "Экономика",
+          "type_of_work": "Задача"
+        },
+        "grades":null
+      },{
+        "task": {
+          "subject": "ООП",
+          "type_of_work": "Лабораторная"
+        },
+        "grades":[ 1,2,3 ]
+      }
+    ]
+  },
+  {
+    "student": {
+      "name_student": "Ваагн",
+      "group": "20м"
+    },
+    "grades": [
+      {
+        "task": {
+          "subject": "Математика",
+          "type_of_work": "Типовик"
+        },
+        "grades": [ 3,3,4,4,3,2 ]
+      },
+      {
+        "task": {
+          "subject": "Схемотехника",
+          "type_of_work": "Лабораторная"
+        },
+        "grades": [ 2,3,5,4,5,2 ]
+      },
+      {
+        "task": {
+          "subject": "История",
+          "type_of_work": "Тест"
+        },
+        "grades":[ 5,5,5 ]
+      },
+      {
+        "task": {
+          "subject": "Русский",
+          "type_of_work": "Диктант"
+        },
+        "grades":[ 1,2,3 ]
+      },
+      {
+        "task": {
+          "subject": "Экономика",
+          "type_of_work": "Задача"
+        },
+        "grades":[ 1,2,3 ]
+      },{
+        "task": {
+          "subject": "ООП",
+          "type_of_work": "Лабораторная"
+        },
+        "grades": null
+      }
+    ]
+  },
+  {
+    "student": {
+      "name_student": "Полина",
+      "group": "20м"
+    },
+    "grades": [
+      {
+        "task": {
+          "subject": "Математика",
+          "type_of_work": "Типовик"
+        },
+        "grades": [ 3,3,5,5,5 ]
+      },
+      {
+        "task": {
+          "subject": "Схемотехника",
+          "type_of_work": "Лабораторная"
+        },
+        "grades": [ 2,3,5,4,5,2 ]
+      },
+      {
+        "task": {
+          "subject": "История",
+          "type_of_work": "Тест"
+        },
+        "grades":[ 5,5,5 ]
+      },
+      {
+        "task": {
+          "subject": "Русский",
+          "type_of_work": "Диктант"
+        },
+        "grades":[ 1,1,5,3 ]
+      },
+      {
+        "task": {
+          "subject": "Экономика",
+          "type_of_work": "Задача"
+        },
+        "grades":[ 5,5,4,3 ]
+      },{
+        "task": {
+          "subject": "ООП",
+          "type_of_work": "Лабораторная"
+        },
+        "grades":[ 3,5 ]
+      }
+    ]
+  },
+  {
+    "student": {
+      "name_student": "Екатерина",
+      "group": "20м"
+    },
+    "grades": [
+      {
+        "task": {
+          "subject": "Математика",
+          "type_of_work": "Типовик"
+        },
+        "grades": [ 3,5,5 ]
+      },
+      {
+        "task": {
+          "subject": "Схемотехника",
+          "type_of_work": "Лабораторная"
+        },
+        "grades": [ 2,3 ]
+      },
+      {
+        "task": {
+          "subject": "История",
+          "type_of_work": "Тест"
+        },
+        "grades":null
+      },
+      {
+        "task": {
+          "subject": "Русский",
+          "type_of_work": "Диктант"
+        },
+        "grades":[ 1,1,3 ]
+      },
+      {
+        "task": {
+          "subject": "Экономика",
+          "type_of_work": "Задача"
+        },
+        "grades":[ 5,4,3 ]
+      },{
+        "task": {
+          "subject": "ООП",
+          "type_of_work": "Лабораторная"
+        },
+        "grades":[ 3,5,3,3,2 ]
+      }
+    ]
+  },
+  {
+    "student": {
+      "name_student": "Дмитрий",
+      "group": "20м"
+    },
+    "grades": [
+      {
+        "task": {
+          "subject": "Математика",
+          "type_of_work": "Типовик"
+        },
+        "grades": [ 3,2,2,2 ]
+      },
+      {
+        "task": {
+          "subject": "Схемотехника",
+          "type_of_work": "Лабораторная"
+        },
+        "grades": [ 2,3,2 ]
+      },
+      {
+        "task": {
+          "subject": "История",
+          "type_of_work": "Тест"
+        },
+        "grades":[ 3,3,3,4 ]
+      },
+      {
+        "task": {
+          "subject": "Русский",
+          "type_of_work": "Диктант"
+        },
+        "grades":[ 4,4,4,3 ]
+      },
+      {
+        "task": {
+          "subject": "Экономика",
+          "type_of_work": "Задача"
+        },
+        "grades":[ 5,4,3 ]
+      },{
+        "task": {
+          "subject": "ООП",
+          "type_of_work": "Лабораторная"
+        },
+        "grades":[ 3,5,3,3,3,2 ]
+      }
+    ]
+  },
+  {
+    "student": {
+      "name_student": "Юрий",
+      "group": "20м"
+    },
+    "grades": [
+      {
+        "task": {
+          "subject": "Математика",
+          "type_of_work": "Типовик"
+        },
+        "grades": null
+      },
+      {
+        "task": {
+          "subject": "Схемотехника",
+          "type_of_work": "Лабораторная"
+        },
+        "grades": [ 2,3,4,2 ]
+      },
+      {
+        "task": {
+          "subject": "История",
+          "type_of_work": "Тест"
+        },
+        "grades":[ 3,3,3 ]
+      },
+      {
+        "task": {
+          "subject": "Русский",
+          "type_of_work": "Диктант"
+        },
+        "grades":[ 4,4,5,3 ]
+      },
+      {
+        "task": {
+          "subject": "Экономика",
+          "type_of_work": "Задача"
+        },
+        "grades":[ 4,3 ]
+      },{
+        "task": {
+          "subject": "ООП",
+          "type_of_work": "Лабораторная"
+        },
+        "grades":[ 1,1,1,5 ]
+      }
+    ]
+  }
+]
